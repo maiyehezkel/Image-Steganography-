@@ -108,7 +108,7 @@ def Menu():
     if func == '1':
         src = input("Enter Name Of Image (inside your project folder):")
         message = input("Enter Message to Hide:")
-        dest = "2"
+        dest = "Encrypt"
         print("Encoding...")
         Encode(src, message, dest)
         print("")
