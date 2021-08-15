@@ -14,15 +14,15 @@ This project is created and tested with:
 
 ### Encode:
 
-`Run the software Encoding`
+`Run the Encoding`
 * Select option 1.
 * Enter a name for an image that exists in the project folder (for example 1.jpg).
 * Enter the message you want to encrypt.
 
 ### Decode:
 
-`Run the software Decoding`
-* Select option 2.
+`Run the Decoding`
+* Select option 1.
 * If no code changes were made, enter the following image name: `Encrypt.png`.
 
 
